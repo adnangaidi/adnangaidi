@@ -3,8 +3,8 @@
     <div class="text-mono text-small mb-3">
       <a href="/adnanegaidi" class="no-underline Link--primary">adnane</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
     </div>
-
   </div>
+  
   <article class="markdown-body entry-content container-lg f5" itemprop="text">
     <h2 dir="auto">Hi there 👋, I'm Adnane Gaidi</h2>
 <h3 dir="auto">Backend Developer</h3>
