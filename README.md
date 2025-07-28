@@ -10,9 +10,9 @@
 <h3 dir="auto">Backend Developer</h3>
 <ul dir="auto">
 <li>💻 I’m currently working as Backend Developer.</li>
-<li>🏠 I’m currently living at Meknes City, Morocco 🇲🇦.</li>
+<li>🏠 I’m currently living at Errachidia City, Morocco 🇲🇦.</li>
 <li>👯 I’m looking to collaborate on any open source projects.</li>
-<li>💬 Ask me about PHP Laravel</li>
+<li>💬 Ask me about Java/JEE</li>
 </ul>
 
 <ul dir="auto">
